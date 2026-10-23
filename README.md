@@ -1,29 +1,25 @@
-# Ashutosh Vyas — GitHub Pages Portfolio
+# Ashutosh Vyas | Portfolio
 
-A responsive, static portfolio site made with plain HTML and CSS. It has no build step or server-side dependencies, so it can be published directly with GitHub Pages.
+**Live site:** [ashutoshvyas26.github.io](https://ashutoshvyas26.github.io/)
 
-## Publish with GitHub Pages
+A personal portfolio highlighting my education in Computer System Technician — Software Support at Mohawk College, hands-on IT support experience, technical skills, and selected projects.
 
-1. Create a new GitHub repository named `ashutoshvyas26.github.io` (use your exact GitHub username in lowercase if it differs).
-2. Put the contents of this folder in the **root** of the repository. The root should contain `index.html`, `styles.css`, and `.nojekyll`; the full resume is in `assets/AshutoshVyas.pdf`.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-5. After the first deployment completes, open `https://ashutoshvyas26.github.io` (or the URL for your account).
+## Built with
 
-GitHub Pages can take several minutes to publish the first version. GitHub documents the current process in its [Pages quickstart](https://docs.github.com/en/pages/quickstart).
+- Semantic HTML
+- Responsive CSS
+- GitHub Pages
 
-## Rubric and content checks
+## Repository contents
 
-- **Summarizing statement:** explicit section with a concise role, relevant strengths, technical foundation, and career direction.
-- **Education:** Mohawk College, co-operative education, expected completion, and relevant study areas.
-- **Skills:** grouped into development, support, and systems/tools.
-- **Projects:** descriptions include purpose, work explored, and tools or workflow. The GitHub links lead to the public profile’s repository list.
-- **Resume:** structured experience, education, skills, and projects; download the uploaded one-page PDF or print a concise profile copy.
-- **Contact:** professional email, phone, LinkedIn, GitHub, and Hamilton, Ontario.
-- **Professional styling:** responsive CSS, consistent colors and typography, custom project art, accessible headings and navigation, and reduced-motion support.
+- `index.html` — portfolio content and page structure
+- `styles.css` — layout, responsive styling, and visual design
+- `assets/AshutoshVyas.pdf` — downloadable resume
 
-Before publishing, confirm that the summaries match your actual work, and replace “Information Technology studies” with the official program/credential title if you want to show it. The course-assignment disclaimer is visible at the top of the page.
+The site is a static website and does not require a build step. To preview it locally, open `index.html` in a web browser.
 
-## Edit locally
+## Connect
 
-Open `index.html` and `styles.css` in any editor. Preview by opening `index.html` in a browser. All navigation is in-page, and the only external service is Google Fonts; system fonts are used as fallbacks.
+- [GitHub](https://github.com/ashutoshvyas26)
+- [LinkedIn](https://www.linkedin.com/in/ashutosh45)
+- [Email](mailto:ashutosh-ashokkumar.vyas@mohawkcollege.ca)
